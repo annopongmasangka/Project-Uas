@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "833253901024",
+    "firebase_url": "https://project-baru-18411085-2874c-default-rtdb.firebaseio.com",
+    "project_id": "project-baru-18411085-2874c",
+    "storage_bucket": "project-baru-18411085-2874c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833253901024:android:bbb9eaca860b879ab04685",
+        "android_client_info": {
+          "package_name": "com.android.example.project_baru_18411085"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833253901024-hbcqkglpd7oi82744hi6iaaj1ntg5tpk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.example.project_baru_18411085",
+            "certificate_hash": "a3ddff6292a45cfa3fdcc7f5505e4d85124aa9c4"
+          }
+        },
+        {
+          "client_id": "833253901024-hbkou8eutgtbeiq18gk1qt8vp8feutlv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaRxjJRVTCguv0zDcBtiiwfH2dKJl9GNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833253901024-hbkou8eutgtbeiq18gk1qt8vp8feutlv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
